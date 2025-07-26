@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# React build output
+build/
+
+# Logs
+*.log
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+
+# 환경설정 파일 (필요시)
+.env
